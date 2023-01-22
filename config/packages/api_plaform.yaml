@@ -1,0 +1,5 @@
+# config/packages/api_platform.yaml
+api_platform:
+    title: 'MadfutBot'
+    description: 'Madfut 23 Bot API'
+    version: '0.0.0'
